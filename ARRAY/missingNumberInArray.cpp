@@ -19,6 +19,7 @@ int brute(int arr[], int n) {
 }
 
 
+//optimal approach
 int opti(int arr[],int n){
     int natural = n*(n+1)/2;
     int sum = 0;
